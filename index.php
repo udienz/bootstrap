@@ -10,11 +10,15 @@
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/default/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="../css/font-awesome.min.css" rel="stylesheet"> 
-    <link href="/css/font-awesome.css" rel="stylesheet">
-    <link href="/css/bootswatch.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="assets/css/bootswatch.css" rel="stylesheet">
+ 
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet"> 
+        <!--
+    <link href="assets/css/font-awesome.css" rel="stylesheet">
+    -->
+
 
    <script type="text/javascript">
 
