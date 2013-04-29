@@ -108,7 +108,7 @@
  <div class="span8">
   <h3 class="page-header"><i class="icon-rss"> </i>Latest from blog</h3>
 <?php
-include('content/feed.php');
+include('feed.php');
 ?>
 <h3 class="page-header"><i class="icon-twitter"> </i>Latest from Tweet</h3>
 <div class="span4">

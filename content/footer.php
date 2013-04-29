@@ -15,9 +15,9 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script src="assets/js/jquery.smooth-scroll.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/bootswatch.js"></script>
+    <script src="/assets/js/jquery.smooth-scroll.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bootswatch.js"></script>
 	<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
 	<script type="text/javascript" src="https://api.twitter.com/1/statuses/user_timeline.json?screen_name=udienz&callback=twitterCallback2&count=8&exclude_replies=false"></script>
 
